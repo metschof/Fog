@@ -7,4 +7,6 @@ and > 100 meteorological observations.
 However the results are presented on a seasonal frequency rather than monthly and numerical data for this presentation is not readily available, 
 so a new analysis of the ICOADS data has been carried out here.
 
-Initial analysis for the North Atlantic Region 45N to 70N, 34W to 20E has been undertaken
+Global fog and mist data is downloaded from the ICOADS database. It is then filtered by lat, lon and month/season. 
+The length of each filtered lat/lon/month/season sub-category is recored in a frequency tally chart.
+The tally tally chart is converted into the percentage of observations having that fog/mist phenomena and also summarised.
