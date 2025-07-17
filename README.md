@@ -9,4 +9,7 @@ so a new analysis of the ICOADS data has been carried out here.
 
 Global fog and mist data is downloaded from the ICOADS database. It is then filtered by lat, lon and month/season. 
 The length of each filtered lat/lon/month/season sub-category is recored in a frequency tally chart.
-The tally tally chart is converted into the percentage of observations having that fog/mist phenomena and also summarised.
+The tally chart is converted into the percentage of observations having that fog/mist phenomena and also summarised.
+
+17/07/2025
+
