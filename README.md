@@ -11,5 +11,5 @@ Global fog and mist data is downloaded from the ICOADS database. It is then filt
 The length of each filtered lat/lon/month/season sub-category is recored in a frequency tally chart.
 The tally chart is converted into the percentage of observations having that fog/mist phenomena and also summarised.
 
-17/07/2026 part 2
+17/07/2026
 
